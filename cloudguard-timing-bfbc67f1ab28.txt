@@ -1,0 +1,3 @@
+CloudGuard harmless synthetic timing experiment.
+This marker is not a credential and provides no access.
+CG_INVALID_PUBLIC_TIMING_A41648146FF111CFF1BCBFBC67F1AB28
