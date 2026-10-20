@@ -1,0 +1,2 @@
+# Harmless invalid synthetic marker. No usable credential.
+CLOUDGUARD_TEST_VALUE = 'CG_INVALID_PUBLIC_TIMING_D401E9889026B513A26FA470148A6B3B'
